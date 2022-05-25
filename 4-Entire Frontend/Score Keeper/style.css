@@ -1,0 +1,66 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container{
+    margin: auto;
+    width: 30vw;
+    border: 1px solid black;
+    margin-top: 30px;
+}
+
+img{
+    width: 100%;
+}
+
+p{
+    margin: 5px;
+}
+
+hr{
+    opacity: 0.3;
+}
+
+.belowhr{
+    margin-left: 7px;
+}
+
+#score{
+    font-size: 25px;
+}
+
+.belowhr p:nth-of-type(2){
+    opacity: 0.6;
+    margin-top: -2px;
+}
+
+.belowhr p:nth-of-type(3){
+    margin: 15px 8px;
+}
+
+select{
+    background: none;
+    padding: 2px;
+    border: 1px solid black;
+    border-radius: 9px;
+    font-size: 15px;
+}
+
+button{
+    width: 33.33%;
+    height: 45px;
+    border: none;
+    font-size: 16px;
+}
+
+button:nth-of-type(1){
+    background-color: burlywood;
+}
+
+button:nth-of-type(2){
+    background-color: cadetblue;
+}
+
+button:nth-of-type(3){
+    background-color: chartreuse;
+}

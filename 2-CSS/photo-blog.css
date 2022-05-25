@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    width: 30%;
+    margin: 5px 1.6666%;
+}
+
+nav{
+    font-weight: 700;
+    margin: 1.6666%;
+    font-size: 1.2rem;
+}
+
+hr{
+    width: 30%;
+    opacity: 0.3;
+    margin-left: 1.66%;
+    margin-bottom: 1.6666%;
+}

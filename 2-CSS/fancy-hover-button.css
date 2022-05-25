@@ -1,0 +1,23 @@
+body{
+    background-color: #172a31;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+button{
+    font-family: 'Roboto', sans-serif;
+    background: none;
+    font-size: 1rem;
+    padding: 1em 2em;
+    color: #e9c46a;
+    border: 2px solid #e9c46a;
+}
+
+button:hover{
+    border-color: #eb5b67;
+    color: #eb5b67;
+    box-shadow: 0 0.6em 0.6em -0.4em;
+    transform: translateY(-0.5em);
+}

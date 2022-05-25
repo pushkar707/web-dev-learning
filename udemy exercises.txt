@@ -1,0 +1,62 @@
+1 Pangolin Practice
+2 Favorite Movies Exercises
+3 Wolf Images & Links Exercise
+4 Snowman Logo Exercise
+5 Table Practice Exercise
+6 Forms Practice Exercise
+7 Our First CSS Exercise
+8 Hipster Logo Exercise
+9 Basic Selectors Practice
+10 Descendent Combinator Practice
+11 Checkerboard Exercise
+12 Box Model Practice
+13 Bootstrap Basics Practice
+14 Bootstrap Grid Practice
+15 Our First Variables Exercise
+16 Our First Constants Exercise
+17 Our First String Variables Practice
+18 String Methods Practice 
+19 More String Methods Practice
+20 String Template Literal Exercise
+21 Our First Conditional Exercise
+22 getColor Conditional Exercise
+23 Nested Conditionals Practice
+24 Logical AND Mystery Exercise
+25 Lotto Numbers Exercise
+26 Array Access Exercise
+27 Push/Pop/Shift/Unshift Practice
+28 Nested Arrays Exercise
+29 Our First Object Exercise
+30 Object Access Exercise
+31 Our First For Loop Practice
+32 More For Loops Practice
+33 Iterating Arrays Exercise
+34 For...Of Practice
+35 Heart Function Exercise
+36 Rant Exercise
+37 Multiple Args Exercise
+38 Return Value Practice
+39 isShortsWeather Function
+40 Last Element Exercise
+41 Capitalize Exercise
+42 Sum Array Exercise
+43 Days Of The Week Exercise
+44 Function Expression Exercise
+45 Methods Exercise
+46 Egg Laying Exercise
+47 Map Practice
+48 Arrow Function Exercise
+49 Filter Exercise
+50 Some/Every Exercise
+51 getElementById Practice
+52 querySelector Practice
+53 Pickles Exercise
+54 Manipulating Attributes Practice
+55 Magical Forest Circle Exercise
+56 Rainbow Text Exercise
+57 ClassList Practice
+58 100 Button Insanity Exercise
+59 Know Thy Enemy Exercise
+60 Click Events Exercise
+61 Form Events Exercise
+62 Input Event Practice

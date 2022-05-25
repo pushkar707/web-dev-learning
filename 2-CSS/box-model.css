@@ -1,0 +1,12 @@
+div{
+    width: 240px;
+    text-align: center;
+    border: 2px solid red;
+}
+
+img{
+    border: 3px solid #663399;
+    border-radius: 50%;
+    width: 240px;
+    box-sizing: border-box;
+}

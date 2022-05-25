@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+    <h1>Firing events with onclick attribute</h1>
+
+    <h2>Without seperate JS File</h2>
+    <button onclick="alert('This is done using onclick attribute.')">Click Me</button>
+    
+    <h2>With Seperate JS File</h2>
+    <button id="btn2">Click me and check console:)</button>
+
+    <h2>With addEventListener</h2>
+    <button id='btn3'>Click me again ^-^</button>    
+
+    <h2>Event Bubbling</h2>
+    <div id="bubblingDiv">
+        <p id="bubblingPara">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            <button id="bubblingBtn">Click Me</button>
+        </p>
+    </div>
+    
+    <p>Event Delegation in 5-form-events</p>
+
+    <script src="1-events.js"></script>
+</body>
+</html>
